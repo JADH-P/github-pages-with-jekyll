@@ -1,6 +1,6 @@
 ---
 title: "Esto es un titulo guay"
-date: 16/02/2021
+date: 2021-02-16
 ---
 
 
